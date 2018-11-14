@@ -1,0 +1,22 @@
+﻿myanmar .php?id=
+site:mm read.php?=
+site:mm  index.php?id=
+site:mm  trainers.php?id=                                                    site:mm  buy.php?category=                                                   site:mm  article.php?ID=
+site:mm  play_old.php?id=
+site:mm  ames.php?id=                                                        site:mm  myanmar  page.php?file=
+site:mm  newsDetail.php?id=                                                  site:mm  gallery.php?id=
+site:mm  article.php?id=                                                     site:mm  show.php?id=
+site:mm  staff_id=                                                           site:mm  newsitem.php?num=
+site:mm  readnews.php?id=
+site:mm  top10.php?cat=                                                      title.php?id=%
+﻿thailand .php?id=
+site:th read.php?=
+site:th  index.php?id=
+site:th  trainers.php?id=                                                    site:th  buy.php?category=                                                   site:th  article.php?ID=
+site:th  play_old.php?id=
+site:th  ames.php?id=                                                        site:th  myanmar  page.php?file=
+site:th  newsDetail.php?id=                                                  site:th  gallery.php?id=
+site:th  article.php?id=                                                     site:th  show.php?id=
+site:th  staff_id=                                                           site:th  newsitem.php?num=
+site:th  readnews.php?id=
+site:th  top10.php?cat=                                                      title.php?id=%
