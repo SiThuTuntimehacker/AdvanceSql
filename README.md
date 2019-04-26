@@ -14,6 +14,15 @@ beautifulsoup4==4.4.1
 argparse==1.2.1
 requests==2.9.1
 
-feedfack for my facebook account messenger 
+usage
+
+./autosqlmap (waf test)
+
+./search-vnln (auto search vuln site)
+user for vuln 
+
+python2 sql.py (auto search vuln sites)
+
+feedback for my facebook account messenger 
 
 >>>https://m.me/TimeHacker98<<<
