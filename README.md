@@ -23,6 +23,9 @@ user for vuln
 
 python2 sql.py (auto search vuln sites)
 
+
+viedo tutorial https://youtu.be/5a7cQdXjyLU
+
 feedback for my facebook account messenger 
 
 >>>https://m.me/TimeHacker98<<<
