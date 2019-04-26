@@ -6,3 +6,4 @@ chmod +x *
 cd
 cd AdvanceSql
 rm -rf install.sh
+rm -rf vuln
