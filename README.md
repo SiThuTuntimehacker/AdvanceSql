@@ -32,3 +32,10 @@ feedback for my facebook account messenger
 
 Screenshot
 ![Screenshot](https://raw.githubusercontent.com/donotforgotme/Photo/master/Screenshot_2019-06-11-16-19-19-205_com.termux.png)
+
+![Screenshot](https://raw.githubusercontent.com/donotforgotme/Photo/master/Screenshot_com.termux1.png)
+
+![Screenshot](https://raw.githubusercontent.com/donotforgotme/Photo/master/Screenshot_com.termux2.png)
+
+![Screenshot](https://raw.githubusercontent.com/donotforgotme/Photo/master/Screenshot_com.termux3.png)
+
